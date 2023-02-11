@@ -1,29 +1,5 @@
 {
-  "cars": [
-    {
-      "id": 1,
-      "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Nexon/7384/1614326304397/front-left-side-47.jpg",
-      "brand": "Tata",
-      "transmission": "Manual",
-      "year": 2019,
-      "kmDriven": 10000,
-      "description": "Tata Altroz with all original documents",
-      "price": 500000
-    }
-  ],
-  "wishlisted_cars": [
-    {
-      "id": 1,
-      "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Nexon/7384/1614326304397/front-left-side-47.jpg",
-      "brand": "Tata",
-      "transmission": "Manual",
-      "year": 2019,
-      "kmDriven": 10000,
-      "description": "Tata Altroz with all original documents",
-      "price": 500000
-    }
-  ],
-  "user": [
+  "users": [
     {
       "id": 1,
       "username": "Hirak",
@@ -32,7 +8,7 @@
       "password": "hirak000"
     }
   ],
-  "blog": [
+  "blogs": [
     {
       "id": 1,
       "username": "coreyschafer",
